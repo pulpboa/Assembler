@@ -144,4 +144,4 @@ def assemble(input_file, output_file):
 
     print(label)
 
-assemble("Rect.asm","Rect.hack")
+assemble("Pong.asm","Pong.hack")
